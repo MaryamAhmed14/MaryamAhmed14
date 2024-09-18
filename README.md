@@ -1,8 +1,8 @@
-# Hi, I'm Maryam Ahmed! 👋
+Hi, I'm Maryam Ahmed! 👋
 
 🌐 **Web Developer | WordPress Expert**
 
-I am a passionate and skilled WordPress website designer with 2 years of experience in developing and maintaining professional websites. I love helping clients transform their ideas into reality, ensuring every project meets high standards of functionality and design.
+"Maryam Ahmed is a passionate and skilled WordPress website designer with 2 years of experience in developing and maintaining professional websites. She excels in helping clients transform their ideas into reality, ensuring that every project meets high standards of functionality and design."
 
 ---
 
